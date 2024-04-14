@@ -1,0 +1,102 @@
+.navbar-collapse {
+    margin-left:120px !important;
+}
+.navbar-brand{
+    margin-left: 25px;
+    font-size: 25px !important;
+    color: rgb(244, 191, 191);
+    box-shadow: 10px !important;
+}
+h3{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.navbar{
+    background: rgb(70, 68, 68);
+    height: 80px;
+}
+.body{
+    background-image:url("https://png.pngitem.com/pimgs/s/455-4557051_boutique-nombres-png-transparent-png.png") !important;
+}
+.col1{
+    margin-top: 35px ;
+    margin-left: 35px ;
+}
+.logo1 img{
+    width: 85px;
+    margin-left: -135px;
+}
+.logo1 button{
+    background: none;
+    border: none;
+}
+.pro1{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    box-shadow: 0.5px 0.5px 0.5px;
+    background:rgb(166, 232, 210);
+    font-family: 'Times New Roman', Times, serif;
+}
+.pro1:hover{
+    color: rgb(54, 51, 35);
+    font-weight: 800;
+    background-color:rgb(244, 237, 237) ;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.fa-heart:before {
+    content: "\f004";
+}
+.card{
+    margin-top: 35px;
+    height: 150px !important;
+}
+.rr2{
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.like{
+    border: none;
+    background: none;
+}
+.card2 img{
+    height: 415px;
+}
+.card3 img{
+    height: 415px;
+}
+.logo img{
+    width: 35px;
+}
+.rr3{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(46, 45, 45);
+}
+.rr3 i{
+    color: white;
+    margin-left: 20px;
+}
+.logo{
+    margin-left:1181px;
+    align-items: center;
+    margin-top: -20px;
+}
+.logo img{
+    margin-left: 10px;
+}
+body{
+    background-image: url("https://pic.clubic.com/v1/images/1965795/raw?fit=max&width=1200&hash=aa7a4a7bb856446465d0b15e31ac63256eb46a04");
+}
+.stor{
+    margin-top: 10px;
+}
+
